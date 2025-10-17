@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-wordcloud/static/css/main.49fb6c95.css",
+    "main.js": "/react-wordcloud/static/js/main.11323729.js",
+    "index.html": "/react-wordcloud/index.html",
+    "main.49fb6c95.css.map": "/react-wordcloud/static/css/main.49fb6c95.css.map",
+    "main.11323729.js.map": "/react-wordcloud/static/js/main.11323729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49fb6c95.css",
+    "static/js/main.11323729.js"
+  ]
+}
